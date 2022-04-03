@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: black 	
+Favorite food: pizza 
+Favorite musician/band: Um Khalthum
+Favorite movie: Titanic
+Requested grade in the course: 98 
